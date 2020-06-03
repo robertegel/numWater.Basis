@@ -8,7 +8,7 @@ View [concept.pdf](https://github.com/robertegel/numWater.Basis/blob/master/conc
 
 This project is built on a previous unpublished group project which developed a complex numeric model simulating a water supply systems behavior with multiple processes.
 
-This group project by Markus Schröder, Elisa Zscherper, Isabelle Fitkau and Robert Egel was built to show interactions of various physical processes in a water supply system. It was developed in the *Multi-Physics Approaches for Modeling Civil Systems* by TU Berlins Department for Civil System Engineering.
+This group project by Markus Schröder, [Elisa Zscherper](https://github.com/zscherpelli), Isabelle Fitkau and Robert Egel was built to show interactions of various physical processes in a water supply system. It was developed in the *Multi-Physics Approaches for Modeling Civil Systems* by TU Berlins Department for Civil System Engineering.
 
 While this project focuses on the development of difference equation systems, it's successors approach further aspects, i.e. [uncertain rainfall](https://github.com/robertegel/numWater.Stochastic) and [social influences](https://github.com/robertegel/numWater.Social).
 
